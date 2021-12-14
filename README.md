@@ -1,6 +1,6 @@
 # Fractal-Renderer
 
-![Fractal] (https://media.giphy.com/media/qoJ9sZu2Xui9a/giphy.gif)
+![Fractal](https://media.giphy.com/media/qoJ9sZu2Xui9a/giphy.gif)
 
 >A C software to display fractals of the Julia, Mandelbrot, and Ship set :)
 
